@@ -1,4 +1,4 @@
-"""Runnable Nano Banana Pro example; Nano Banana 3 is not yet confirmed."""
+"""Generate an image through MuAPI's Nano Banana endpoint."""
 
 import os
 import time
